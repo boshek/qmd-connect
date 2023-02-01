@@ -1,0 +1,14 @@
+---
+title: "qmd2"
+format: html
+---
+
+
+## section 1
+
+- a list
+- times 2
+
+```{r}
+1 + 1
+```

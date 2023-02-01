@@ -1,0 +1,14 @@
+---
+title: "qmd1"
+format: html
+---
+
+## section
+
+```{r}
+source("R/functions.R")
+```
+
+```{r}
+plus_one(12)
+```

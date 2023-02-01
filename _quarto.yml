@@ -1,0 +1,11 @@
+project:
+  render:
+    - qmd1/qmd1.qmd
+    - qmd2/qmd2.qmd
+  execute-dir: project
+format:
+  html:
+    toc: true
+    self-contained: true
+    toc-depth: 3
+    toc-title: "Contents"
