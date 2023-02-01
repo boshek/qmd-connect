@@ -6,9 +6,5 @@ format: html
 ## section
 
 ```{r}
-source("R/functions.R")
-```
-
-```{r}
-plus_one(12)
+read.csv("data/small.csv")
 ```

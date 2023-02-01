@@ -3,11 +3,7 @@ title: "qmd2"
 format: html
 ---
 
-
-## section 1
-
-- a list
-- times 2
+## section 
 
 ```{r}
 1 + 1
